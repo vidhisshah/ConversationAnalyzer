@@ -13,10 +13,10 @@ The Whatsapp conversation you want to analyze must be exported from Whatsapp.
 5. Select appropriate export medium such that the file can be saved in the same folder that you will be running your code in. 
 
 # Requirements:
--python3 
--libraries: matplotlib, re, wordcloud, collections
--WhatsApp conversation saved as 'demo.txt' file (exported and renamed) in the same folder as code
+1. python3
+2. matplotlib, re, wordcloud, collections
+3. WhatsApp conversation saved as 'demo.txt' file (exported and renamed) in the same folder as code
 
 # To run the code:
--On your terminal type the command: 
 	python3 ConversationAnalyzer.py
+On your terminal type the above command
